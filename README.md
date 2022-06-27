@@ -2,6 +2,38 @@
 
 ---
 
+- System Preferences
+    - Bluetooth
+        - Connect devices
+        - Rename devices
+        - Show Bluetooth in menu bar
+    - Mouse
+        - Scroll direction
+        - Tracking speed
+        - Primary mouse button
+    - Dock & Menu Bar
+        - Position on screen: Left
+        - Show recent applications in Dock
+    - Spotlight
+        - Applications only
+    - Users & Groups
+        - Change profile image
+    - Touch ID
+        - Rename fingerprint
+    - Sharing
+        - AirPlay Receiver
+- Safari
+    - Install Google Chrome (https://www.google.com/chrome/)
+- Finder
+    - Add Google Chrome to Dock
+- Google Chrome
+    - Sign in
+    - Customize profile
+    - Google Mail download `profile_picture.png`
+    - Set Google profile picture
+
+---
+
 - Google Chrome
     - Settings
         - Password autofill
@@ -607,6 +639,7 @@ gpg -a --export "${KEY}"
 ```
 
 - Google Chrome
+    - Register for GitHub
     - Add GPG key to GitHub
     - Install GitHub CLI (https://cli.github.com)
 - iTerm
@@ -621,3 +654,7 @@ gh config set editor "code -nw"
     - Install Figma
 - Finder
     - Add Figma to Dock
+- System Preferences
+    - Notifications & Focus
+        - Notifications
+            - Disable all
