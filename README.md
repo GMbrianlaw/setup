@@ -37,18 +37,22 @@
 - Google Chrome
     - Settings
         - Password autofill
-    - Bookmarks
-        - Code
-        - Communication
-            - Google Drive
-            - Google Mail
-            - YouTube
+    - Extensions
+        - Install
+            - Adblock Plus - free ad blocker
+            - Material Icons for GitHub
     - Developer Tools
         - Settings
             - Enable 1-9 shortcut
         - Console
             - Settings
                 - Hide network
+    - Bookmarks
+        - Code
+        - Communication
+            - Google Drive
+            - Google Mail
+            - YouTube
     - Install [fonts](https://raw.githubusercontent.com/gmbrianlaw/setup/main/fonts.zip)
 - Finder
     - Install fonts
